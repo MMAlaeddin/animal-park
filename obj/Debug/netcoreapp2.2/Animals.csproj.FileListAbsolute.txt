@@ -1,0 +1,11 @@
+/Users/Guest/Desktop/Wildlife-Park/obj/Debug/netcoreapp2.2/Animals.csprojAssemblyReference.cache
+/Users/Guest/Desktop/Wildlife-Park/obj/Debug/netcoreapp2.2/Animals.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/Wildlife-Park/obj/Debug/netcoreapp2.2/Animals.AssemblyInfoInputs.cache
+/Users/Guest/Desktop/Wildlife-Park/obj/Debug/netcoreapp2.2/Animals.AssemblyInfo.cs
+/Users/Guest/Desktop/Wildlife-Park/bin/Debug/netcoreapp2.2/Animals.deps.json
+/Users/Guest/Desktop/Wildlife-Park/bin/Debug/netcoreapp2.2/Animals.runtimeconfig.json
+/Users/Guest/Desktop/Wildlife-Park/bin/Debug/netcoreapp2.2/Animals.runtimeconfig.dev.json
+/Users/Guest/Desktop/Wildlife-Park/bin/Debug/netcoreapp2.2/Animals.dll
+/Users/Guest/Desktop/Wildlife-Park/bin/Debug/netcoreapp2.2/Animals.pdb
+/Users/Guest/Desktop/Wildlife-Park/obj/Debug/netcoreapp2.2/Animals.dll
+/Users/Guest/Desktop/Wildlife-Park/obj/Debug/netcoreapp2.2/Animals.pdb
